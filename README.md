@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🚀 Welcome to FYCodeLab!  
+Your go-to place for beginner-friendly programming and data science courses.  
 
-<!--
-**FYCodeLab/FYCodeLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For now, we have **Coding-Intro**, but more courses are on the way! Stay tuned for exciting learning opportunities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Available Courses  
+### 📘 [Coding-Intro](https://github.com/FYCodeLab/coding-intro)  
+A beginner-friendly programming repository covering the basics of R.  
+- **Chapter 1 - The Basics**  
+  📖 Learn the fundamentals of R programming, including syntax, data structures, and basic operations.  
+- **Try it on Google Colab:**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/R/INTRODUCTION_A_R_CH1_G.ipynb)
+
+---
+
+## 🛠 How to Get Started  
+1. Browse the available repositories.  
+2. Open Jupyter Notebooks in **Google Colab** for an interactive experience.  
+3. Stay updated as we release new learning resources!  
+
+---
+
+## 🎯 Future Courses (Coming Soon)  
+✔ Python Introduction  
+✔ Machine Learning Basics  
+✔ Data Science Fundamentals  
+
+We are actively working on new content to expand your programming skills!  
+
+
+💡 **Follow the repository** to get notified of updates and new courses.  
+
+---
+
+## 📬 Stay Connected  
+Have questions or suggestions? Feel free to open an issue or reach out! 🚀  
+
