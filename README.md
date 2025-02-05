@@ -13,12 +13,6 @@ A beginner-friendly programming repository covering the basics of R.
 - **Try it on Google Colab:**  
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/R/INTRODUCTION_A_R_CH1_G.ipynb)
 
----
-
-## 🛠 How to Get Started  
-1. Browse the available repositories.  
-2. Open Jupyter Notebooks in **Google Colab** for an interactive experience.  
-3. Stay updated as we release new learning resources!  
 
 ---
 
