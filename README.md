@@ -16,8 +16,9 @@ A beginner-friendly programming repository covering the basics of R.
 
 - **Chapter 2 - What are libraries ?**  
 📖 Learn how to use libraries and why they are so important and useful in programming.\
-🔗 **Open the course in Google Colab**:  
-[![French Flag](https://flagcdn.com/24x18/fr.png)](https://github.com/FYCodeLab/coding-intro/blob/main/R/INTRODUCTION_A_R_CH2_F_G.ipynb)&nbsp;[![Open in collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/FYCodeLab/coding-intro/blob/main/R/INTRODUCTION_A_R_CH2_F_G.ipynb)&nbsp;&nbsp;&nbsp;&nbsp; [![UK Flag](https://flagcdn.com/24x18/gb.png)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/R/INTRO_TO_R_chapter_1_en_G.ipynb)&nbsp;[![Open in collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/R/INTRO_TO_R_chapter_1_en_G.ipynb)
+🔗 **Open the course in Google Colab**:
+[![French Flag](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/R/INTRODUCTION_A_R_CH2_F_G.ipynb)&nbsp;[![Open in collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/R/INTRODUCTION_A_R_CH2_F_G.ipynb)&nbsp;&nbsp;&nbsp;&nbsp; [![UK Flag](https://flagcdn.com/24x18/gb.png)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/R/INTRO_TO_R_CH2_EN_G.ipynb)&nbsp;[![Open in collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/R/INTRO_TO_R_CH2_EN_G.ipynb)
+
 
 ---
 
