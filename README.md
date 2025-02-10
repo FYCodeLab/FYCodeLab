@@ -7,9 +7,9 @@ For now, we have **Coding-Intro**, but more courses are on the way! Stay tuned f
 
 ## 📂 Available Courses  
 
-### 📘 [Coding-Intro](https://github.com/FYCodeLab/coding-intro)
+### 📘 [Coding-Intro](https://github.com/FYCodeLab/coding-intro) : A beginner-friendly programming course covering the basics of R and Python.  
 ![Intro to R](https://img.shields.io/badge/Intro%20to%20the%20programming%20language%20R-276DC3?style=for-the-badge&logo=r&logoColor=white)\
-A beginner-friendly programming repository covering the basics of R.  
+ 
 - **Chapter 1 - The Basics**  
 📖 Learn the fundamentals of R programming, including syntax, data structures, and basic operations.\
 🔗 **Open the course in Google Colab**:
@@ -24,7 +24,7 @@ A beginner-friendly programming repository covering the basics of R.
 <BR>
 
 ![Intro to Python](https://img.shields.io/badge/Intro%20to%20the%20programming%20language%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
-A beginner-friendly programming repository covering the basics of R.  
+
 - **Chapter 1 - Basic functions**  
 📖 Learn the basic operations and functions.\
 🔗 **Open the course in Google Colab**:
