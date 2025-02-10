@@ -39,7 +39,8 @@ A beginner-friendly programming repository covering the basics of R.
 ---
 
 ## 🎯 Future Courses (Coming Soon)  
-✔ Python Introduction  
+✔ Python Introduction in English
+✔ Useful libraries for the beginner
 ✔ Machine Learning Basics  
 ✔ Data Science Fundamentals  
 
