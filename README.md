@@ -32,7 +32,7 @@ For now, we have **Coding-Intro**, but more courses are on the way! Stay tuned f
 
 
 
-- **Chapter 2 - A simple guide to libraries  ?**  
+- **Chapter 2 - A simple guide to libraries **  
 📖 Learn how to use simple libraries and why libraries are so important and useful in programming.\
 🔗 **Open the course in Google Colab**:
 [![French Flag](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/PYTHON/PYTHON_lib_chap2_fr.ipynb)&nbsp;[![Open in collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/PYTHON/PYTHON_lib_chap2_fr.ipynb)&nbsp;&nbsp;&nbsp;
