@@ -8,7 +8,7 @@ For now, we have **Coding-Intro**, but more courses are on the way! Stay tuned f
 ## 📂 Available Courses  
 
 ### 📘 [Coding-Intro](https://github.com/FYCodeLab/coding-intro) : A beginner-friendly programming course covering the basics of R and Python.  
-![Intro to R](https://img.shields.io/badge/Intro%20to%20the%20programming%20language%20R-276DC3?style=for-the-badge&logo=r&logoColor=white)\
+![Intro to R](https://img.shields.io/badge/Intro%20to%20the%20programming%20language%20R-276DC3?style=for-the-badge&logo=r&logoColor=white)
  
 - **Chapter 1 - The Basics**  
 📖 Learn the fundamentals of R programming, including syntax, data structures, and basic operations.\
@@ -26,13 +26,12 @@ For now, we have **Coding-Intro**, but more courses are on the way! Stay tuned f
 ![Intro to Python](https://img.shields.io/badge/Intro%20to%20the%20programming%20language%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
 
 - **Chapter 1 - Basic functions**  
-📖 Learn the basic operations and functions.\
+📖 Learn the basic operations and functions.
 🔗 **Open the course in Google Colab**:
 [![French Flag](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/PYTHON/PYTHON_intro_chap1_fr.ipynb)&nbsp;[![Open in collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/PYTHON/PYTHON_intro_chap1_fr.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-
-- **Chapter 2 - A simple guide to libraries **  
+- **Chapter 2 - A simple guide to libraries**  
 📖 Learn how to use simple libraries and why libraries are so important and useful in programming.\
 🔗 **Open the course in Google Colab**:
 [![French Flag](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/PYTHON/PYTHON_lib_chap2_fr.ipynb)&nbsp;[![Open in collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/PYTHON/PYTHON_lib_chap2_fr.ipynb)&nbsp;&nbsp;&nbsp;
