@@ -1,7 +1,6 @@
 # 🚀 Welcome to FYCodeLab!  
 A place for beginner-friendly and biologist-friendly programming and data science courses.  
-
-For now, we have **Coding-Intro**, but more courses are on the way! Stay tuned for exciting learning opportunities.
+For learning how to code, **[Coding-Intro](https://github.com/FYCodeLab/coding-intro)** is for you. More courses are on the way! If you’re a teacher have a look at the **[Classroom Activities](#📂-classroom-activities)**.
 
 ---
 
