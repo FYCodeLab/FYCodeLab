@@ -36,22 +36,29 @@ If you’re a teacher take a look at our **[📂 Classroom Activities](https://g
 🔗 **Open the course in Google Colab**:
 [![French Flag](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/PYTHON/PYTHON_lib_chap2_fr.ipynb)&nbsp;[![Open in collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/PYTHON/PYTHON_lib_chap2_fr.ipynb)&nbsp;&nbsp;&nbsp;[![UK Flag](https://flagcdn.com/24x18/gb.png)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/PYTHON/PYTHON_lib_chap2_en.ipynb)&nbsp;[![Open in collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/coding-intro/blob/main/PYTHON/PYTHON_lib_chap2_en.ipynb)
 
+
+
 ---
 
 ## 📂 ClassRoom Activities
-Code and tools for live classes to illustrate key points of programming, statistics, AI and biology
 
- 
-### 🍬 [SweetSpot](https://github.com/FYCodeLab/SweetSpot/) - The power of aggregated data
-With a jar of sweets show how data science and statistics can be useful\
-<!--LOGO >
- [![SweetSpot](https://img.shields.io/badge/🍬-SweetSpot·[Code]-orange?style=for-the-badge)](https://github.com/FYCodeLab/SweetSpot)
-🔗 **Open the course in Google Colab**:
-[![French Flag](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)&nbsp;[![Open in collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)
+💡 Code and tools designed for **interactive classroom sessions**, to explore key concepts in  
+**programming**, **statistics**, **artificial intelligence**, and **biology**.
 
-vv
 ---
-vv
+
+### 🍬 [SweetSpot](https://github.com/FYCodeLab/SweetSpot/) — *The Power of Aggregated Data*
+
+> *📦 A playful experiment using a jar of sweets to demonstrate how **data science**, **visualization**, and **statistics** can reveal the surprising power of group estimation.*
+
+<!-- Optional visual badge -->
+<!-- [![SweetSpot](https://img.shields.io/badge/🍬-SweetSpot·[Code]-orange?style=for-the-badge)](https://github.com/FYCodeLab/SweetSpot) -->
+
+#### 🔗 Open the interactive notebook in Google Colab:&nbsp;[![🇫🇷 French](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)&nbsp;[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)
+
+---
+
+
 ## 🎯 Future Courses and Tools (Coming Soon)  
 ✔ Useful libraries for the beginner
 ✔ Machine Learning Basics  
@@ -67,4 +74,6 @@ We are actively working on new content to expand your programming skills!
 
 ## 📬 Stay Connected  
 Have questions or suggestions? Feel free to open an issue or reach out! 🚀  
+
+
 
