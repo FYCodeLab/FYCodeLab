@@ -60,7 +60,7 @@ If you’re a teacher take a look at our **[📂 Classroom Activities](https://g
 
 ### 🍬 [SweetSpot](https://github.com/FYCodeLab/SweetSpot/) — *The Power of Aggregated Data*
 
-> *📦 A playful experiment using a jar of sweets to demonstrate how **data science**, **visualization**, and **statistics** can reveal the surprising power of group estimation. Also, learn how to make graphs with the ggplit package in R!*
+> *📦 A playful experiment using a jar of sweets to demonstrate how **data science**, **visualization**, and **statistics** can reveal the surprising power of group estimation. Also, learn how to make graphs with the ggplot package in R!*
 
 <!-- Optional visual badge -->
 <!-- [![SweetSpot](https://img.shields.io/badge/🍬-SweetSpot·[Code]-orange?style=for-the-badge)](https://github.com/FYCodeLab/SweetSpot) -->
