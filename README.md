@@ -79,7 +79,7 @@ If you’re a teacher take a look at our **[📂 Classroom Activities](https://g
 #### 🔗 Open the interactive notebook in Google Colab:&nbsp;[![🇬🇧 English](https://flagcdn.com/24x18/gb.png)](https://colab.research.google.com/github/FYCodeLab/intro-biopython/blob/main/BioPython_Mammoth_Viz_en.ipynb)&nbsp;[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/intro-biopython/blob/main/BioPython_Mammoth_Viz_en.ipynb)
 
 ---
-## ESPy Robotics — microelectronics kit
+## 🤖 ESPy Robotics — The microelectronics kit for beginners
 
 A compact, beginner-friendly collection of **CircuitPython** projects for the **ESPY** microcontroler card (included in kit). It includes colorful LED animations, tilt-controlled games, and small utilities (clock, timer, weather) that teach core microelectronics skills, without wiring, soldering...
 
