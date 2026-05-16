@@ -1,5 +1,15 @@
 # 🚀 Welcome to FYCodeLab!  
 A place for beginner-friendly and biologist-friendly programming and data science courses.  
+<p align="center">
+  <a href="https://fycodelab.github.io/showcase2">
+    <img src="https://img.shields.io/badge/🚀-View%20All%20Projects-667eea?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  Explore the FYCodeLab showcase website to discover all projects, experiments, educational tools and robotics initiatives.
+</p>
+
 For learning how to code, **[📂 Coding-Intro](https://github.com/FYCodeLab#-coding-intro--a-beginner-friendly-programming-course-covering-the-basics-of-r-and-python)** is for you. More courses are on the way!
 If you’re a teacher take a look at our **[📂 Classroom Activities](https://github.com/FYCodeLab#-classroom-activities)**
 
