@@ -93,7 +93,7 @@ If you’re a teacher take a look at our **[📂 Classroom Activities](https://g
 
 A compact, beginner-friendly collection of **CircuitPython** projects for the **ESP32** microcontroler card; Kits include colorful LED animations, tilt-controlled games, and small utilities (clock, timer, weather) that teach core microelectronics skills, without wiring, soldering...
 
-**Repo:** [FYCodeLab/espy-robotics › ](https://github.com/FYCodeLab/espy-robotics/)
+**Repo:** [FYCodeLab/Vibe-Robotics › ](https://github.com/FYCodeLab/espy-robotics/)
 
 ---
 
